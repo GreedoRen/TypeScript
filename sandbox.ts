@@ -5,5 +5,8 @@ let arr = [1, 'one', true]
 let obj = {
     a: true,
     b: 1,
-    c: 'a'
+    c: 'a',
+    d: {
+        a: true
+    }
 }
