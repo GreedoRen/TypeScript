@@ -7,6 +7,7 @@ let obj = {
     b: 1,
     c: 'a',
     d: {
-        a: true
+        a: true,
+        b: 'surename'
     }
 }
