@@ -12,3 +12,7 @@ let obj = {
         c: [1, 'one', true]
     }
 }
+
+function returnString(a: string) {
+    return a
+}
