@@ -8,6 +8,7 @@ let obj = {
     c: 'a',
     d: {
         a: true,
-        b: 'surename'
+        b: 'surename',
+        c: [1, 'one', true]
     }
 }
