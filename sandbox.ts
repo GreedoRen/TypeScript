@@ -16,3 +16,7 @@ let obj = {
 function returnString(a: string) {
     return a
 }
+
+function returnNumber(b: number) {
+    return b
+}
