@@ -20,3 +20,7 @@ function returnString(a: string) {
 function returnNumber(b: number) {
     return b
 }
+
+function returnBool(c: boolean) {
+    return c
+}
