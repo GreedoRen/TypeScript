@@ -24,3 +24,7 @@ function returnNumber(b: number) {
 function returnBool(c: boolean) {
     return c
 }
+
+function returnObj(d: object) {
+    return d
+}
