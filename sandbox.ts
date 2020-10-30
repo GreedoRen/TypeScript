@@ -28,3 +28,7 @@ function returnBool(c: boolean) {
 function returnObj(d: object) {
     return d
 }
+
+function returSome(e = 'default') {
+    return e
+}
