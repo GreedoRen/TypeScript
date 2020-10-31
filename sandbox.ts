@@ -32,3 +32,7 @@ function returnObj(d: object) {
 function returSome(e = 'default') {
     return e
 }
+
+function returDefaultNumber(f = 1) {
+    return f
+}
