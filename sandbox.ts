@@ -36,3 +36,7 @@ function returSome(e = 'default') {
 function returDefaultNumber(f = 1) {
     return f
 }
+
+function returDefaultNumber(g = {}) {
+    return g
+}
