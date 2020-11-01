@@ -37,6 +37,6 @@ function returDefaultNumber(f = 1) {
     return f
 }
 
-function returDefaultNumber(g = {}) {
+function returDefaultObject(g = {}) {
     return g
 }
